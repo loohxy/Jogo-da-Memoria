@@ -10,7 +10,7 @@ Este é um jogo da memória feito com **HTML, CSS e JavaScript**.
 ## 🚀 Acesse o Jogo Online
 Você pode jogar agora mesmo clicando no link abaixo:
 
-➡️ [**Jogar agora no GitHub Pages**](https://**loohxy**.github.io/**Jogo-da-Memoria**)
+➡️ [**Jogar agora no GitHub Pages**](https://loohxy.github.io/Jogo-da-Memoria/)
 
 ## 🔊 Funcionalidades Adicionadas
 - Sons ao virar cartas
