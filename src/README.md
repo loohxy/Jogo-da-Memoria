@@ -26,7 +26,7 @@ Você pode jogar agora mesmo clicando no link abaixo:
 
 ## 📸 Imagem do jogo
  <p align="center">
-  <img src="./src/img/print-jogo.png" alt="Preview do jogo">
+  <img src="./src/img/preview-jogo.png" alt="Preview do jogo">
 </p>
 
 ---
